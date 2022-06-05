@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning Python, Ruby, & JavaScript.
 - 📍 I live in 🎌Japan.
 - 🎮 I play Minecraft & Splatoon2.
-- 📖 I reading "The Beast Player".
+- 🔈 I'm listening "Inaba Kumori"
