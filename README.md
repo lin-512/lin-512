@@ -1,4 +1,5 @@
 - 👋 Hiiiiiiii!
 - 🌱 I’m currently learning Python, Ruby, & JavaScript.
-- 📍 I'm live in Japan.
-- 🎮 I play Minecraft
+- 📍 I live in 🎌Japan.
+- 🎮 I play Minecraft & Splatoon2.
+- 📖 I reading "The Beast Player".
